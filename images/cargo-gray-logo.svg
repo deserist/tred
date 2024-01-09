@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 781</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="237" height="42.3926941" rx="21.196347"></rect>
+    </defs>
+    <g id="V2---Renkli-Stamp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="220618_Web589-2_alt1_v1" transform="translate(-1004.000000, -207.000000)">
+            <g id="Group-19" transform="translate(988.000000, 196.000000)">
+                <g id="Group-20">
+                    <g id="Group-16">
+                        <g id="Rectangle-3" transform="translate(118.500000, 21.196347) scale(-1, 1) translate(-118.500000, -21.196347) ">
+                            <use fill-opacity="0.700379303" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#999999" stroke-width="1" x="0.5" y="0.5" width="236" height="41.3926941" rx="20.696347"></rect>
+                        </g>
+                        <g id="Group-781" transform="translate(15.000000, 10.000000)">
+                            <polygon id="Path-2" fill="#999999" points="10.5290955 0.641766357 1.26674194 4.58772583 1.95759888 8.69018555 11.1729126 20.5520325 20.593689 16.1254211 20.4580811 5.09734497"></polygon>
+                            <polygon id="Stroke-1074" stroke="#FBFFFC" fill="#999999" stroke-linecap="round" stroke-linejoin="round" points="10.9375 9.1875 0.4375 4.8125 0.4375 16.1875 10.9375 20.5625"></polygon>
+                            <polygon id="Stroke-1075" stroke="#FBFFFC" fill="#999999" stroke-linecap="round" stroke-linejoin="round" points="10.9375 9.1875 20.5625 4.8125 20.5625 16.1875 10.9375 20.5625"></polygon>
+                            <polyline id="Stroke-1076" stroke="#FBFFFC" stroke-linecap="round" stroke-linejoin="round" points="0.4375 4.8125 10.5 0.4375 20.5625 4.8125"></polyline>
+                            <path d="M6.2890625,2.2703625 L16.0024375,6.8886125" id="Stroke-1077" stroke="#FBFFFC" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
